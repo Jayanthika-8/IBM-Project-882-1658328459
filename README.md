@@ -7,7 +7,4 @@ Evaluator : Mr. Jayasakthi velmurugan K
  
 Team Lead : Aravindhan.S.P
 
-Team Members : 
-Boobalachandran.C
-Dhanasekaran.K
-Susmitha.S
+Team Members : Boobalachandran.C, Dhanasekaran.K, Susmitha.S
